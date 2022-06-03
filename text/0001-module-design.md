@@ -1,12 +1,14 @@
-- Start Date: (fill me in with today's date, YYYY-MM-DD)
+- Start Date: 2022-06-02
 - RFC PR: (leave this empty)
 - Deepcord Issue: (leave this empty)
 
 # Summary
 
-Brief explanation of the feature.
+Discussion of the structure and form of a [discord.js](https://discord.js.org) module for [Deepkit](https://deepkit.io/)
 
 # Basic example
+
+[letheist/deepcord](https://github.com/letheist/deepcord)
 
 If the proposal involves a new or changed API, include a basic code example.
 Omit this section if it's not applicable.
@@ -31,7 +33,7 @@ defined here.
 
 # Drawbacks
 
-Why should we *not* do this? Please consider:
+Why should we _not_ do this? Please consider:
 
 - implementation cost, both in term of code size and complexity
 - whether the proposed feature can be implemented in user space
